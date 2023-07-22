@@ -1,0 +1,32 @@
+body::before{
+    display: block;
+    height: 90px;
+    content: '';
+}
+
+textarea{
+    resize: none;
+}
+
+.gmap_canvas{
+    border-radius: 20px;
+}
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 100%;
+    width: 100%;
+}
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 100%;
+    width: 110%;
+}
+ @media screen and (min-width:768px )  {
+    .Input-Email{
+        width: 50%;
+        
+    }
+   
+ }
