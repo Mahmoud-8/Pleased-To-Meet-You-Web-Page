@@ -1,5 +1,6 @@
 # README for "Pleased To Meet You" Web Page
-
+![Alt text](<Screenshot 2023-07-22 at 9.25.45 PM.png>)
+![Alt text](<Screenshot 2023-07-22 at 9.26.02 PM.png>)
 This repository contains the code for the "Pleased To Meet You" web page. The page is written using HTML, CSS, and Bootstrap.
 
 ## Table of Contents
