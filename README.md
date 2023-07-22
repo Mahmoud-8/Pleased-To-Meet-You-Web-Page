@@ -5,39 +5,24 @@ This repository contains the code for the "Pleased To Meet You" web page. The pa
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Courses](#courses)
-3. [Contact](#contact)
-4. [Contact Info](#contact-info)
-5. [Footer](#footer)
+2. [Contact Info](#contact-info)
+4. [Footer](#footer)
 
 ## Introduction
 
-The introduction section provides an overview of Mahmoud's background and interests. It contains a brief description of himself, his passion for cutting-edge technologies, and his experience as a full-stack web developer. The section also includes a link to his LinkedIn profile.
+The introduction section provides an overview of My background and interests. It contains a brief description of myself, my passion for cutting-edge technologies, and my experience as a full-stack web developer. The section also includes a link to my LinkedIn profile.
 
-## Courses
-
-In the courses section, Mahmoud lists the different types of courses he offers. These include:
-
-1. **Virtual**: A course that can be taken online.
-2. **Hybrid**: A course that combines both online and in-person elements.
-3. **In-person**: A course conducted in a physical location.
-
-Each course is accompanied by a brief description.
-
-## Contact
-
-The contact section allows visitors to send a message to Mahmoud. It includes a text area where visitors can type their message, and an input field for entering their email address. Upon filling out the form, visitors can click the "Send" button to send their message.
 
 ## Contact Info
 
-The contact info section provides Mahmoud's main contact details:
+The contact info section provides My main contact details:
 
 - **Main Location**: Sadat city, Egypt
 - **Phone**: +201061123564
 - **Email**: mahmoud292949@gmail.com
 - **Website**: [Beaminstitute](https://beaminstitute.org/)
 
-Additionally, a Google Map is embedded in this section to show Mahmoud's location in Sadat city.
+Additionally, a Google Map is embedded in this section to show My location in Sadat city.
 
 ## Footer
 
@@ -53,6 +38,4 @@ The web page is built using the following technologies:
 
 ---
 
-Thank you for checking out the "Pleased To Meet You" web page! For any inquiries or feedback, feel free to reach out to Mahmoud using the provided contact information.
-
-*Note: The web page uses Bootstrap and various font libraries for styling. Make sure to include the necessary dependencies for the page to display correctly.*
+Thank you for checking out the "Pleased To Meet You" web page! For any inquiries or feedback, feel free to reach me out using the provided contact information.
